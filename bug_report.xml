@@ -1,1 +1,14 @@
-
+<ID>01</ID>
+<Tittle>Отсутствие кнопки "Добавить в избранное" на странице товара</Tittle>
+<STR>1. Открыть сайт flowers.ru,
+  2. Открыть страницу любого товара,
+  3. Проскроллить до изображения товара </STR>
+<Enviroment>MacOS 12.6, Safari 16.0</Enviroment>
+<ActualResult>Отображается кнопка "Добавить в избранное"</ActualResult>
+<ExpectedResult>Кнопка "Добавить в избранное" отсутствует</ExpectedResult>
+<Severity>Major</Severity>
+<Priority>High</Priority>
+<Status>Open</Status>
+<Author>Марина</Author>
+<SignTo>Михаил</SignTo>
+<Attachments>аттач</Attachments>
